@@ -11,6 +11,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Eddy Zheng # author name
   bio: >- # tell to the world
+  Hello, I live in Oakville, Ontario and this is my website. Here you will find my résumé, projects, and blog.
   username: username # general username
   github: github_username # github username
   twitter: twitter_username # twitter username
