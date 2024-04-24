@@ -1,18 +1,22 @@
 ---
-title: Colophon
+title: About
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
-comments: false
+excerpt: This is Eddy
+comments: true
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+Welcome!!
 
-If you have a question about him or else, just send a letter to him.
+This is Eddy, a student at White Oaks Secondary School and an incoming student at Cornell. 
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
+Since a young age I've been transfixed by the beauty in math and computer science. Naturally, I immersed myself in contests and web development. I will use this website to document my projects and other interesting things.
 
-**may u needs ✨**
+In December of 2023 I organized the WOSS Dual Olympiad. Here is the website: My authored problems are available on dmoj.ca/user/404/solved. The contest website is here: https://wossdual.github.io/
+
+In my free time I also enjoy competitive debate, clash royale (I'm top 1000 global), and playing with my dog.
+
+**Other links**
 
 - {{ site.author.email }}
 - github.com/{{ site.author.github }}
