@@ -14,8 +14,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Eddy Zheng # author name
   bio: >- # tell to the world
-    Hello, I live in Oakville, Ontario and this is my website. Here you will find my résumé, projects, and blog.
-    hdsauiiad
+    Hello, this is Eddy. You may know me as 404 on dmoj.ca. On this website you will find my resume, projects, and some of my blogs!
   username: killer # general username
   github: e1011 # github username
   twitter: twitter_username # twitter username
