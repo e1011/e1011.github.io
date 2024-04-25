@@ -5,6 +5,6 @@ tags: [blog, github]
 description: I created a game in JavaScript
 ---
 
-I created a game. it is a 3d raycaster. it is on my git hub now.
+I created a 3d raycaster. It is on my github now. I will continue updating it, currently adding more complex enemies.
 
 ### Title
