@@ -8,7 +8,7 @@ comments: true
 
 Welcome!!
 
-This is Eddy, a student at White Oaks Secondary School and an incoming student at Cornell. 
+This is Eddy, a student at White Oaks Secondary School and an incoming student at Undecided. 
 
 Since a young age I've been transfixed by the beauty in math and computer science. Naturally, I immersed myself in contests and web development. I will use this website to document my projects and other interesting things.
 
